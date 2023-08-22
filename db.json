@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Tom Mertz",
+      "id": 2
+    },
+    {
+      "name": "Rolando Shields",
+      "id": 3
+    },
+    {
+      "name": "Kathy Koelpin",
+      "id": 4
+    },
+    {
+      "name": "Mr. Myron Rippin",
+      "id": 5
+    },
+    {
+      "name": "Regina Murray",
+      "id": 6
+    },
+    {
+      "name": "Angelina Walsh",
+      "id": 7
+    },
+    {
+      "name": "Dana Robel",
+      "id": 8
+    },
+    {
+      "name": "Tracy Treutel Jr.",
+      "id": 9
+    },
+    {
+      "name": "Todd Abernathy",
+      "id": 10
+    },
+    {
+      "name": "Miss Grace Gerlach",
+      "id": 11
+    },
+    {
+      "name": "Crystal Bartell",
+      "id": 12
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Frozen Chair",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Bronze Chair",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Concrete Shoes",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Modern Soft Sausages",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Luxurious Wooden Mouse",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "title": "Licensed Steel Computer",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7392836297162752",
+      "id": 1
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3277300466450432",
+      "id": 2
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1721954102935552",
+      "id": 3
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7819414239969280",
+      "id": 4
+    }
+  ]
+}
